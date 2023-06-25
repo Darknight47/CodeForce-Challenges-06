@@ -1,4 +1,6 @@
 """
+---------- Link for the challenge: https://codeforces.com/problemset/problem/1038/A ----------------
+
 You are given a string s of length n, which consists only of the first k
 letters of the Latin alphabet. All letters in string s are uppercase.
 
