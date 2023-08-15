@@ -32,6 +32,14 @@ Their concatenation has to be equal to s and all of them have to be good.
 If there are multiple answers, print any.
 
 
+Input:
+1
+1
+
+Output:
+1
+1
+
 """
 
 n = int(input())
