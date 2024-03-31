@@ -1,2 +1,15 @@
-# CodeForce-Challenges-06
-<img src="https://png2.cleanpng.com/sh/13e891d7e315c0a502e399c831048e50/L0KzQYm3VMEzN6prj5H0aYP2gLBuTgB6fJl0hp95cnBqgrL0jflvb15xedDwdXHqdX7qjB1xfaVqip95cnBqgrL0jflvb15xedDwdXHqdX68gfNnbJQ4Tqc7OULkRnA9WcE2OWE9UaMAMkO4R4KAVsY0O2k3RuJ3Zx==/kisspng-python-programming-language-computer-programming-language-5acfdc365292a6.6915108915235717663382.png" width="30%" height="30%">
+# Codeforces Challenges - Repository 6
+
+This repository contains my solutions to programming challenges from Codeforces.  
+Codeforces: [(https://codeforces.com/problemset)]  
+
+Each solution is contained in its own directory, which includes the link to the challenge, problem statement, my solution, and any notes I made while solving the challenge.
+
+## Repository Structure
+
+Each directory in this repository corresponds to a single challenge from Codeforces. The directory name is the name of the challenge!
+
+## How to Use This Repository
+The type of each challenge (e.g., greedy, dynamic programming, search, math, etc.) is indicated in the commit message when the solution is pushed to GitHub. This information is displayed in gray text next to each commit on GitHub.  
+
+Feel free to browse through the solutions and compare them with your own! If you have any suggestions or improvements, don't hesitate to create an issue or submit a pull request.
